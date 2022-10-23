@@ -1,0 +1,14 @@
+description: Stack destined to facilitate the rescue of the texts of pdfs so that they can be used according to the need.
+name: pdf-ocr-stack
+display-name: pdf-ocr-stack
+picture: stack.png
+category: backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
+compatibility: # Put a list of technologies compatible with the stack
+  - python
+technologies: # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#technologies 
+  - python
+about: docs/about.md
+use-cases:
+  - title: Use Case Title
+    content: docs/use-case.md
+    stackfile: stackfiles/default.yaml

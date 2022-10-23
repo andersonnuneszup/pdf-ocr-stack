@@ -1,0 +1,9 @@
+name: pdf-ocr-stack-template
+description: Template intended to show how to facilitate the rescue of pdf texts so that they can be used as needed.
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name

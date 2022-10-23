@@ -1,0 +1,4 @@
+type: app
+description: Stack destined to facilitate the rescue of the texts of pdfs so that they can be used according to the need.
+# template used to create the project
+template: pdf-ocr-stack/pdf-ocr-stack-template
